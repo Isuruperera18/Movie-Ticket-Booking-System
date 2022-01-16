@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/ImageResources">
+        <file>Images/Movie1.png</file>
+        <file>Images/Available.png</file>
+        <file>Images/Select.png</file>
+        <file>Images/Movie2.png</file>
+        <file>Images/Reserved.png</file>
+    </qresource>
+</RCC>
